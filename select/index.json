@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "poi",
+  "base_artist": "dodo",
+  "createdAt": "2026-03-26T20:13:44.407809Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Poi Varavaa",
+      "artist": "Darbuka Siva feat. Bombay Jayashri",
+      "has_synced": true,
+      "path": "select/01_Poi_Varavaa_Darbuka_Siva_feat._Bombay_Jayashri.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Poi Varavaa",
+      "artist": "Darbuka Siva & Bombay Jayashri",
+      "has_synced": true,
+      "path": "select/02_Poi_Varavaa_Darbuka_Siva_&_Bombay_Jayashri.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "...e poi mi parli di una vita insieme",
+      "artist": "Vasco Rossi",
+      "has_synced": true,
+      "path": "select/03_...e_poi_mi_parli_di_una_vita_insieme_Vasco_Rossi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cinque Minuti E Poi",
+      "artist": "Claudio Baglioni",
+      "has_synced": true,
+      "path": "select/04_Cinque_Minuti_E_Poi_Claudio_Baglioni.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Da Adesso In Poi",
+      "artist": "Ligabue",
+      "has_synced": true,
+      "path": "select/05_Da_Adesso_In_Poi_Ligabue.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Diventa demente (la kultura poi ti kura)",
+      "artist": "Skiantos",
+      "has_synced": false,
+      "path": "select/06_Diventa_demente_(la_kultura_poi_ti_kura)_Skiantos.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "E Poi 2002",
+      "artist": "Giorgia",
+      "has_synced": false,
+      "path": "select/07_E_Poi_2002_Giorgia.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "E Poi (Live)",
+      "artist": "Giorgia",
+      "has_synced": true,
+      "path": "select/08_E_Poi_(Live)_Giorgia.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "E Poi Il Buio",
+      "artist": "Marlene Kuntz",
+      "has_synced": true,
+      "path": "select/09_E_Poi_Il_Buio_Marlene_Kuntz.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "E poi viaggiai",
+      "artist": "Gianna Nannini",
+      "has_synced": true,
+      "path": "select/10_E_poi_viaggiai_Gianna_Nannini.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "E se poi",
+      "artist": "Malika Ayane",
+      "has_synced": true,
+      "path": "select/11_E_se_poi_Malika_Ayane.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I bambini di poi",
+      "artist": "Matia Bazar",
+      "has_synced": true,
+      "path": "select/12_I_bambini_di_poi_Matia_Bazar.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Non è poi tanto male",
+      "artist": "Matia Bazar",
+      "has_synced": false,
+      "path": "select/13_Non_è_poi_tanto_male_Matia_Bazar.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Per un minuto e poi ...",
+      "artist": "Matia Bazar",
+      "has_synced": false,
+      "path": "select/14_Per_un_minuto_e_poi_..._Matia_Bazar.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Per un minuto e poi...",
+      "artist": "Matia Bazar",
+      "has_synced": false,
+      "path": "select/15_Per_un_minuto_e_poi..._Matia_Bazar.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "poi",
+      "artist": "dodo",
+      "has_synced": false,
+      "path": "select/pl_01_poi_dodo.txt"
+    }
+  ]
+}
